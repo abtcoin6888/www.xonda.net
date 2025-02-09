@@ -3275,7 +3275,7 @@
             const loginId = $("#layer_loginid").val();
             const loginPass = $("#layer_loginpass").val();
             // 校?登? ID
-            if (loginId === "" || loginId.length < 6 || pureNumberRegex.test(loginId)) {
+            if (loginId === "" || loginId.length < 4 || pureNumberRegex.test(loginId)) {
                 makeAlert("아이디는 6자 이상이며, 숫자만으로 구성될 수 없습니다.", funcFocus(document.frmLayerLogin.loginid));
                 return;
             }
