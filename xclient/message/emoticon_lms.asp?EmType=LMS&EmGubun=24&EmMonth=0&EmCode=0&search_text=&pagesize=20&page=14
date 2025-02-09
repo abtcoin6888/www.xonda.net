@@ -1,0 +1,1021 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+		<meta charset="euc-kr">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>쏜다넷 - 장문이모티콘, 기업문자</title>
+	<meta name="title" content="쏜다넷 - 장문이모티콘, 기업문자">
+	<meta name="keywords" content="쏜다넷,장문이모티콘, 기업문자">
+	<meta name="description" content="쏜다넷 - 장문이모티콘, 기업문자">
+	<meta name="Subject" content="쏜다넷 - 장문이모티콘, 기업문자">
+	<meta name="Author" content="쏜다넷">
+	<meta name="Copyright" content="www.xonda.net">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta name="format-detection" content="telephone=no,address=no,email=no"/>
+	<meta name="build" content="2025.2.9">
+	<meta property='og:type' content='website'>
+	<meta property='og:url' content='https://www.xonda.net'>
+	<meta property='og:title' content='쏜다넷 - 장문이모티콘, 기업문자'>
+	<meta property='og:description' content='쏜다넷 - 장문이모티콘, 기업문자'>
+	<meta property='og:image' content='https://www.xonda.net/xclient/images/xondanet130.jpg'>
+	<meta name="naver-site-verification" content="0c973861db3c7f11f2d65b5050eaa619ebd69e76"/>
+	<script type="application/ld+json">
+	{
+	 "@context": "http://schema.org",
+	 "@type": "Organization",
+	 "name": "쏜다넷",
+	 "url": "https://www.xonda.net",
+	 "sameAs": [
+	   "https://blog.naver.com/xondanet1",
+	   "https://www.youtube.com/@xondanet",
+	   "https://tv.naver.com/xondanet",
+	   "https://www.facebook.com/xondanet",
+	   "https://www.instagram.com/xondanet"
+	 ]
+	}
+	</script>
+	<link rel='canonical' href='../../index.html'>
+	<link rel='shortcut icon' href='../images/favicon/favicon.ico' type='image/x-ico'/>
+	<link rel='icon' href='../images/favicon/favicon.ico' type='image/x-ico'/>
+	<link rel="apple-touch-icon" href="../images/favicon/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="../images/favicon/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="../images/favicon/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="../images/favicon/touch-icon-ipad-retina.png">
+	<link rel="apple-touch-icon-precomposed" href="../images/favicon/Icon-60.png">
+	<!--link rel="icon" sizes="192x192" href="https://www.xonda.net/xclient/images/favicon/nice-highres.png"-->
+	<script type="text/javascript">
+	var SITE_LOGIN_FLAG = false;
+	var SITE_DEVICE_TYPE = "PC";
+	var SITE_DISPLAY_TYPE = "PC";
+	var AJAXPOP_WIDTH = 600;
+	</script>
+	<link rel="stylesheet" href="../assets/css/common.min.css%3Fver=20250206000005">
+	<script type="text/javascript" src="../assets/js/common.min.js%3Fver=20250206000005" charset="UTF-8"></script>
+	<link rel="stylesheet" href="../assets/css/xonda.min.css%3Fver=20250206000005">
+	<script type="text/javascript" src="../assets/js/xonda.min.js%3Fver=20250206000005"></script>
+
+	<link href="../assets/css/bootstrap-datetimepicker.min.css%3Fver=20250206000005" rel="stylesheet" media="screen">
+	<script type="text/javascript" src="../assets/js/bootstrap-datetimepicker.min.js%3Fver=20250206000005" charset="UTF-8"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		initTooltip();
+		$('#bs-navbar-collapse').on('hidden.bs.collapse', function() {
+			topNaviResize();
+		});
+		$('#bs-navbar-collapse').on('shown.bs.collapse', function() {
+			topNaviResize();
+		});
+	});
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11331409994"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'AW-11331409994');
+	</script>
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/xclient/assets/css/font-awesome-ie7.min.css">
+<![endif]-->
+<!--[if lt IE 9]>
+	<script type='text/javascript' src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/excanvas.js"></script>
+	<script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+	<script type='text/javascript' src="/xclient/assets/js/placeholders.min.js"></script>
+	<script type='text/javascript' src="/xclient/assets/js/jquery.form.min.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+	<script type='text/javascript' src="/xclient/assets/js/IE8.js"></script>
+<![endif]-->
+<noscript>
+	<link rel="stylesheet" type="text/css" href="../assets/css/nojs.css" />
+</noscript>
+	<script type="text/javascript">
+		function loadEmoList(){if("1"==document.frmSearch.calltype.value){var e=serializeGETData("frmSearch"),a=execURL("POST","/xclient/message/emoticon_data.asp",e),n=a.substring(0,4),t=a.substring(5);"E"==n.substring(0,1)?alert("["+n+"] "+t):$("#divEmoticon").html(a),topNaviResize(),bodyResize()}else document.frmSearch.submit();return!1}function searchText(){var e=document.frmSearch;e.EmGubun.value=20,e.page.value=1,loadEmoList(),""!=e.search_text.pval()?$("#btnSearchX").hasClass("display-none")&&$("#btnSearchX").removeClass("display-none"):$("#btnSearchX").hasClass("display-none")||$("#btnSearchX").addClass("display-none")}function searchOk(){var e=document.frmSearch;e.page.value=1,loadEmoList(),""!=e.search_text.pval()?$("#btnSearchX").hasClass("display-none")&&$("#btnSearchX").removeClass("display-none"):$("#btnSearchX").hasClass("display-none")||$("#btnSearchX").addClass("display-none")}function searchCancel(){document.frmSearch.search_text.value="",searchOk()}function changeGubun(e){var a=document.frmSearch;a.EmGubun.value=e,a.EmMonth.value="",a.EmCode.value=0,a.page.value=1,loadEmoList()}function changeMonth(e){var a=document.frmSearch;a.EmMonth.value=e,a.EmCode.value=0,a.page.value=1,loadEmoList()}function changeCate(e){var a=document.frmSearch;a.EmCode.value=e,a.page.value=1,loadEmoList()}function changeSize(e){var a=document.frmSearch;a.pagesize.value=e,a.page.value=1,loadEmoList()}function changePage(e){document.frmSearch.page.value=e,loadEmoList()}function changeHOT(e,a){void 0===a&&(a="");var n=document.frmSearch;n.EmGubun.value="",n.EmMonth.value="",n.EmCode.value=e,n.search_text.value=a,n.page.value=1,searchOk()}
+
+		$(window).ready(function () {
+			currentPosition("05");
+
+			$("#txt_search_text").keydown(function(evt) {
+				if (evt.keyCode == 13){
+					searchText();
+					return false;
+				}
+			});
+		});
+	</script>
+        <!--[if lte IE 8]>
+        <style type="text/css">
+        /*<![CDATA[*/
+        .dropdown-menu-right {
+            right: 0!important
+        }
+        .btn-group-justified > .btn-default {
+            background-color: transparent
+        }
+        /*]]>*/
+        </style>
+        <![endif]-->
+</head>
+<body>
+<!-- page info -->
+<div id="page-info">
+	<!-- page title -->
+	<h1 class="page-title">장문이모티콘, 기업문자</h1>
+
+	<!-- page keywords -->
+	<h2 class="page-keywords">장문이모티콘, 기업문자</h1>
+
+	<!-- page description -->
+	<h3 class="page-description">장문이모티콘, 기업문자</h1>
+</div>
+<!-- navigation start -->
+<div id="topNavi" class="navbar navbar-xonda navbar-fixed-top row" role="banner">
+	<!--[if lte IE 9]>
+	<div class="browser-warning">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class='warning-icon'>
+						<i class='fa fa-warning'></i>
+					</div>
+					<div class='warning-text'>
+						<p>인터넷 익스플로러의 예전 버전을 사용하고 계십니다.</p>
+						<p>쏜다넷은 크롬 브라우저에 최적화되어 있으며, 인터넷 익스플로러 10 이상을 권장합니다. <a href='http://browsehappy.com/' target='_blank' class='btn btn-xs btn-primary'>브라우저 업데이트하기</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<![endif]-->
+	<div class="container hidden-xs">
+		<div class="row">
+			<div class="navbar-quick">
+				<a href="../../index.asp"><i class="fa fa-home marginR5"></i>처음으로</a>
+				<a href="../customer/notice_list.asp"><i class="fa fa-volume-down marginR5"></i>고객센터</a>
+
+				<a href="../service/sitemap.asp"><i class="fa fa-th marginR5"></i>사이트맵</a>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<div class="navbar-toggle-box">
+					<button type="button" class="navbar-toggle" onclick="document.location.href='https://www.xonda.net/xclient/service/sitemap.asp';" alt="사이트맵"><i class="fa fa-th"></i><br><span>사이트맵</span></button>
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse" alt="메뉴보기"><i class="fa fa-align-justify"></i><br><span>메뉴보기</span></button>
+				</div>
+				<!--
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				-->
+				<a href="../../index.asp" class="navbar-brand"><img src="../images/xondanet.gif"></a>
+			</div>
+			<div class="collapse navbar-collapse bs-navbar-collapse" role="navigation" id="bs-navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li class="dropdown hidden-sm hidden-md hidden-lg">
+						<a class="dropdown-toggle" data-toggle="dropdown" data-id="menu-sms" data-flag="move" href="javascript:openPopFree()"><i class="fa fa-heart marginR5 fPink"></i>무료문자 <span class="fPink">3,000건</span> (9시,12시,18시)</a>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle black" data-toggle="dropdown" data-id="menu-sms" data-flag="move" href="sms.asp" id="topmenu_00">일반문자</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="sms.asp">단문전송</a></li>
+							<li><a href="lms.asp">장문전송</a></li>
+							<li><a href="mms.asp">포토전송</a></li>
+	
+							<li><a href="javascript:openPopFree()" class="fRed">무료문자</a></li>
+	
+							<li class="divider"></li>
+							<li><a href="emoticon_sms.asp">단문이모티콘</a></li>
+							<li><a href="emoticon_lms.asp">장문이모티콘</a></li>
+							<li class="divider"></li>
+							<li><a href="callback.asp" class="fRed">발신번호 등록안내</a></li>
+	
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle red" data-toggle="dropdown" data-id="menu-sms" data-flag="move" href="sms_ad.asp" id="topmenu_01">광고문자</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="sms_ad.asp">단문전송</a></li>
+							<li><a href="lms_ad.asp">장문전송</a></li>
+							<li><a href="mms_ad.asp">포토전송</a></li>
+							<li class="divider"></li>
+							<li><a href="ad_duty.asp" class="fRed">광고문자 이용안내</a></li>
+							<li><a href="callback.asp" class="fRed">발신번호 등록안내</a></li>
+	
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" data-id="menu-addr" data-flag="menu" href="../address/address.asp" id="topmenu_03">주소록</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/address/address.asp')">주소록관리</a></li>
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/address/address_import.asp')">주소록가져오기</a></li>
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/address/address_export.asp')">주소록내보내기</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" data-id="menu-stat" data-flag="menu" href="../statistics/sent_msg.asp" id="topmenu_04">전송관리</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/statistics/sent_msg.asp')">전송결과</a></li>
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/statistics/reserve_list.asp')">예약관리</a></li>
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/statistics/stat_list.asp')">전송통계</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" data-id="menu-asp" data-flag="move" href="../enterpriseASP/xdb.asp" id="topmenu_05">문자연동</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="../enterpriseASP/xdb.asp">DB 문자연동</a></li>
+							<li><a href="../enterpriseASP/socket.asp">소켓 문자연동</a></li>
+							<li><a href="../enterpriseASP/dll.asp">DLL 문자연동</a></li>
+							<li><a href="../pay/msg/list.asp%3Fspkind=B&menu=02" class="fRed">연동요금안내</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" data-id="menu-event" data-flag="move" href="../event/index.asp" id="topmenu_06">MO서비스</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="../event/index.asp">서비스신청</a></li>
+							<li><a href="../event/payment.asp">요금안내</a></li>
+							<li><a href="../event/event.asp">MO이벤트</a></li>
+							<li><a href="../event/gift.asp">기프트몰</a></li>
+						</ul>
+					</li>
+	
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" data-id="menu-mymenu" data-flag="menu" href="../member/mymenu.asp" id="topmenu_07">마이메뉴</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/member/mymenu.asp')">마이메뉴</a></li>
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/member/myinfo.asp')">회원정보수정</a></li>
+	
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/member/use_list.asp')">사용내역</a></li>
+	
+							<li><a href="#" onclick="menuURL('https://www.xonda.net/xclient/member/qna_list.asp')">1:1문의</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="logoff">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<a class="btn btn-xs btn-success" data-toggle="modal" data-target="#layerLogin"><i class="fa fa-cog marginR5"></i>로그인</a>
+					<a class="btn btn-xs btn-danger marginL5" href="../member/joinstep1.asp"><i class="fa fa-pencil marginR5"></i>회원가입</a>
+					<a class="btn btn-xs btn-info marginL5" href="../member/findidpw.asp"><i class="fa fa-question marginR5"></i>아이디/비밀번호찾기</a>
+					<a class="btn btn-xs btn-warning marginL5" href="../service/pay_chart.asp"><i class="fa fa-info-circle marginR5"></i>요금안내</a>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="topmenu-banner-notice">
+			<div class="container">
+				<div class="title">지금 회원가입만 하셔도,<br> <b>매일 무료문자</b>가 제공됩니다.<a href="../member/joinstep1.asp" class="btn btn-xs btn-dark">무료혜택 신청하기</a></div>
+			</div>
+		</div>
+
+</div>
+<!-- end navigation -->
+<script type="text/javascript">
+	$('ul.nav li.dropdown').hover(function() {
+		if($(window).width() >= 768) $(this).addClass("open");
+	}, function() {
+		if($(window).width() >= 768) $(this).removeClass("open");
+	});
+	$('ul.nav li.dropdown .dropdown-toggle').click(function() {
+		if($(window).width() >= 768){
+			if($(this).data("flag") == "menu")
+				menuURL($(this).get(0).href);
+			else
+				moveURL($(this).get(0).href);
+		}
+	});
+</script>
+<noscript>
+	<div class="browser-security">
+		쏜다넷 사이트를 이용하시려면 자바스크립트가 활성화 되어야합니다.<br>
+		브라우저에서 자바스크립트를 활성화하는 방법을 확인하시려면 <a href="http://www.enable-javascript.com/ko/" target="_blank">이곳을 클릭</a>해주세요.<br>
+	</div>
+</noscript>
+<div id="topNaviMargin" class="bg-info minH100 H130"></div>
+<div id="bodyWrapper"><div class="container">
+	<div class="site-position">
+	
+		<span class="pull-right">
+			<a href="../../index.asp">Home</a><i class="fa fa-angle-right"></i><a href="sms.asp">일반문자</a><i class="fa fa-angle-right"></i>
+			<span class="dropdown">
+				<a class="dropdown-toggle now" data-toggle="dropdown" href="#" id="curr_menu"></a>
+				<ul class="dropdown-menu pull-right" role="menu">
+					<li id="pos_01"><a href="sms.asp">단문전송</a></li>
+					<li id="pos_02"><a href="lms.asp">장문전송</a></li>
+					<li id="pos_03"><a href="mms.asp">포토전송</a></li>
+					<li id="pos_06"><a href="javascript:openPopFree()" class="fLBlue">무료문자</a></li>
+					<li class="divider"></li>
+					<li id="pos_04"><a href="emoticon_sms.asp">단문이모티콘</a></li>
+					<li id="pos_05"><a href="emoticon_lms.asp">장문이모티콘</a></li>
+					<li class="divider"></li>
+					<li id="pos_07"><a href="ad_duty.asp">광고문자 이용안내</a></li>
+				</ul>
+			</span>
+		</span>
+	
+		<div id="alert-area" class="alert-area fixed PC"></div>
+	</div>
+</div>
+
+<div class="container">
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<div class="page-nav">
+			<ul class="nav nav-pills ">
+	
+				<li id="tabEMSMS" class=""><a href="emoticon_sms.asp" class="SMS"><i class="fa fa-comment marginR5 hidden-xs"></i>단문이모티콘</a></li>
+				<li id="tabEMLMS" class="active"><a href="emoticon_lms.asp" class="SMS"><i class="fa fa-file-text marginR5 hidden-xs"></i>장문이모티콘</a></li>
+	
+			</ul>
+		</div>
+
+		<div class="panel panel-info marginT10">
+			<div class="panel-body bg-info paddingB0">
+				<form name="frmSearch" id="frmSearch" onsubmit="return false" method="get" action="emoticon_lms.asp">
+				<input type="hidden" name="calltype" value="0">
+				<input type="hidden" name="EmType" value="LMS">
+				<input type="hidden" name="EmGubun" value="24">
+				<input type="hidden" name="EmMonth" value="0">
+				<input type="hidden" name="EmCode" value="0">
+				<input type="hidden" name="pagesize" value="20">
+				<input type="hidden" name="page" value="14">
+				<div class="input-group input-group-sm">
+					<div class="input-group-btn dropdown">
+						<button type="button" class="btn btn-success btn-sm dropdown-toggle dropdown-toggle-btn" data-toggle="dropdown" data-default="전체분류" aria-haspopup="true" aria-expanded="false" ><span class='title'>전체분류</span><span class="caret"></span></button><ul class="dropdown-menu" data-container="body"><li><a onclick="('',$(this));" class="dropdown-item f12px ellipsis">전체분류</a></li></ul><input type="hidden" name="EmoType" value="">
+					</div>
+					<input type="text" class="form-control" name="search_text" id="txt_search_text" value="" placeholder="검색하시고 싶은 [이모티콘] 단어를 입력하세요.">
+					<div class="input-group-btn">
+						<button type='button' class="btn btn-success" onclick="searchText()"><i class="fa fa-search hidden-xs marginR5"></i>검색</button>
+						<button type='button' class="btn btn-default display-none" onclick="searchCancel()" id="btnSearchX"><i class="fa fa-times hidden-xs marginR5"></i>취소</button>
+					</div>
+				</div>
+				</form>
+				<ul class='emoti_cate_sub breadcrumb'>
+					<li><span class="label label-xs label-danger"><i class='fa fa-star marginR5'></i>HOT</span></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=2599" class="fRed fBold">pc방</a></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=331" class="fGray fBold">결혼/결혼답례인사</a></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=2611" class="fBlue fBold">기업홍보/이벤트</a></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=330" class="fGreen fBold">부고/조문답례</a></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=982" class="fPink fBold">생일축하</a></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=977" class=" fBold">선거</a></li>
+	
+					<li><a href="emoticon_lms.asp%3FEmCode=2612" class="fRed fBold">출산/임신</a></li>
+	
+				</ul>
+			</div>
+		</div>
+
+		<div id="divEmoticon">
+	
+		<!-- 이모티콘 그룹 -->
+		<div class="page-nav" style="background-color:#666666">
+			<ul id="emoti-nav-1" class="nav nav-pills">
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=20">전체분류</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=21">월별문자</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=22">14일문자</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=23">감정문자</a></li>
+			
+						<li class='active'><a href="emoticon_lms.asp%3FEmGubun=24">기업문자</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=25">계절문자</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=26">알림문자</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=27">기념일문자</a></li>
+			
+						<li ><a href="emoticon_lms.asp%3FEmGubun=28">종교문자</a></li>
+			
+			</ul>
+			<div id="emoti-nav-2" class="btn-group btn-group-xs marginL10 dropdown">
+				<button type="button" class="btn btn-primary btn-sm dropdown-toggle dropdown-toggle-btn" data-toggle="dropdown" data-default="기업문자" aria-haspopup="true" aria-expanded="false" ><span class='title'>기업문자</span><span class="caret"></span></button><ul class="dropdown-menu" data-container="body"><li><a onclick="changeGubun('20',$(this));" class="dropdown-item f12px ellipsis">전체분류</a></li><li><a onclick="changeGubun('21',$(this));" class="dropdown-item f12px ellipsis">월별문자</a></li><li><a onclick="changeGubun('22',$(this));" class="dropdown-item f12px ellipsis">14일문자</a></li><li><a onclick="changeGubun('23',$(this));" class="dropdown-item f12px ellipsis">감정문자</a></li><li><a onclick="changeGubun('24',$(this));" class="dropdown-item f12px ellipsis">기업문자</a></li><li><a onclick="changeGubun('25',$(this));" class="dropdown-item f12px ellipsis">계절문자</a></li><li><a onclick="changeGubun('26',$(this));" class="dropdown-item f12px ellipsis">알림문자</a></li><li><a onclick="changeGubun('27',$(this));" class="dropdown-item f12px ellipsis">기념일문자</a></li><li><a onclick="changeGubun('28',$(this));" class="dropdown-item f12px ellipsis">종교문자</a></li></ul><input type="hidden" name="cateseq" value="24">
+			</div>
+		</div>
+		<div class="emoti_subbox">
+			<div class="panel panel-info">
+				<div class="panel-body bg-info">
+
+					<ul class='emoti_cate_PC'>
+						<li><i class='fa fa-caret-right marginR5'></i><a href="javascript:changeCate(0)" class='selected'>전체보기</a></li>
+			<li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2599' >pc방</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2606' >건강식품</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=967' >고객관리</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2611' >기업홍보/이벤트</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2600' >네일샵</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=968' >노조/조합</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=966' >대리운전</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=973' >대출/금융/보험</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=965' >모임/동호회</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=975' >미용실/뷰티</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=971' >병원/한의원</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=970' >부동산</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2603' >산악회</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=977' >선거</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=963' >쇼핑/홍보</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2607' >업무/회사</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2604' >여행사</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=969' >유흥/성인</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2605' >음식점</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2609' >중고차/렌트카</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=972' >퀵서비스/택배</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=2608' >통신사</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=964' >학원/학교</a></li><li><i class='fa fa-caret-right marginR5'></i><a href='emoticon_lms.asp%3FEmGubun=24&EmCode=976' >헬스/골프</a></li>
+					</ul>
+
+				</div>
+			</div>
+			<!-- 목록정보 -->
+			<div>
+				<div class="pull-left f12px marginT5">총 <b>587</b>건</div>
+				<div class="pull-right dropdown">
+					<button type="button" class="btn btn-xs btn-default dropdown-toggle dropdown-toggle-btn" data-toggle="dropdown" data-default="20개씩보기" aria-haspopup="true" aria-expanded="false" ><span class='title'>20개씩보기</span><span class="caret"></span></button><ul class="dropdown-menu" data-container="body"><li><a onclick="changeSize('10',$(this));" class="dropdown-item f12px ellipsis">10개씩보기</a></li><li><a onclick="changeSize('15',$(this));" class="dropdown-item f12px ellipsis">15개씩보기</a></li><li><a onclick="changeSize('20',$(this));" class="dropdown-item f12px ellipsis">20개씩보기</a></li><li><a onclick="changeSize('25',$(this));" class="dropdown-item f12px ellipsis">25개씩보기</a></li><li><a onclick="changeSize('30',$(this));" class="dropdown-item f12px ellipsis">30개씩보기</a></li><li><a onclick="changeSize('40',$(this));" class="dropdown-item f12px ellipsis">40개씩보기</a></li><li><a onclick="changeSize('50',$(this));" class="dropdown-item f12px ellipsis">50개씩보기</a></li><li><a onclick="changeSize('100',$(this));" class="dropdown-item f12px ellipsis">100개씩보기</a></li></ul>
+				</div><div class="clear"></div>
+			</div>
+			<div class="marginT10">
+		
+				<ul class="emoti_list">
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">☆☆☆텔레콤
+초특가행사중
+행사1. 상담만 받으셔도 사은품증정
+행사2. 위약금 + 할부금 최대지원
+행사3. 가입비 + 유심비 면제
+행사4. 휴대폰케이스 + 보호필름 무료제공
+
+방문하셔서 많은 혜택 받아 가세요~</textarea>
+							<div class="emoti_title LMS">초특가행사중</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">◇◇기업전화 공식가입센터 !!
+
+- 단말기무료제공
+- 설치비면제
+- 가입비무료
+- 기업전화키폰시스템.
+
+고품질 VoIP기업키폰시스템, IP폰전량무상제공, 통신료40%할인효과, 장비무료. 
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">기업전화 공식가입센터</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">OOO님! 안녕하세요? 그 동안 건강 하셨는지요?
+지난달 구입하신 건강식품을 드신 후 소감이 궁금합니다.
+소개하신 OOO님에게서 효과를 보고 있으시다는 말은 전해 들었습니다.
+우리 회사 건강식품은 온몸 구석구석 혈관을 청소해주고 발끝에서 머리끝까지 혈액순환이 잘 되게 하므로 산소와 영양성분을 모발 끝까지 전달합니다.
+그러므로 발모촉진과 탈모방지에 효과가 좋습니다. 특히 수험생 등 온 가족 건강보조식품으로 인기가 많은 제품이랍니다. 꾸준히 드시면 녹용에 들어있는 L-Cystine 성분이 간 해독을 시켜주므로 피곤하지 않고 체질까지 개선됩니다. 그러므로 1~2박스(3~6개월 정도 꾸준히 드신 후 몸의 컨디션이 좋아지시면 2알씩 두 번 드시던 것을 1알씩 줄여 하루에 두 번 드시면 됩니다. 그러면 한 달에 5만 원 정도의 저렴한 가격으로 건강관리를 계속하실 수 있습니다. 참고해주시고요, 문의가 있으시면 언제든지 상담요청해주세요. 다시한번 구매 감사드립니다. </textarea>
+							<div class="emoti_title LMS">고객관리</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">(광고)[헬시○○○] 
+식사대용 생식&#47;다이어트용 슬림생식&#47;기능성 비타민 및 칼슘 제품 등 각종 건강식품을 할인판매 중입니다.
+고객님의 체질과 환경에 따른 맞춤 추천 가능합니다! 
+섭취방법 및 건강상담도 병행하니 언제든지 문의주세요! 
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">건강식품할인판매</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">가을맞이 플러스세일
+
+본 쿠폰과 당일 3만원이상 구매시 사은품 증정
+
+▶기간: 0.0(0) ~ 0.00(0), 13일간
+
+▶장소:1층사은행사장
+
+▶사은품:행주세트&#47;밀폐용기&#47;테이프크리어 택1 증정
+
+사은품은 사정상 변경될 수 있습니다.
+</textarea>
+							<div class="emoti_title LMS">가을맞이 플러스세일</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">※여름건강식품※
+ ※ 빅세일 ※
+
+ㅇㅇㅇ   30%↓
+ㅇㅇㅇ 20%↓
+건강식품전품목
+
+이 기회를 놓치지 마세요!
+선착순 100분께
+ㅇㅇㅇ을 증정합니다.</textarea>
+							<div class="emoti_title LMS">여름건강식품</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">안녕하세요, 고객님! 
+양배추즙, 브로콜리즙, 배즙, 양파즙, 호박즙 등 각종 건강즙을 취급하고 있는 즙나라입니다. 현재 전제품 2+1행사 진행중입니다. 프리미엄 유기농 제품도 있으니 문의주세요! *^^*</textarea>
+							<div class="emoti_title LMS">각종 건강즙</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">OOO님! 안녕하십니까?
+저희 OO식품에서는 x월 xx일~x월 xx일까지 OO마트 앞에서 오후 2시부터 4시까지 OOO의 시음회를 실시하오니 많은 관심 부탁 드립니다.
+OOO은 국내에서만 자생하는 OO를 특별 가공한 차로 우리 인체 내부에 쌓여 있는 노폐물을 배설시켜 줍니다. 한 잔으로도 그 놀라운 효과를 볼 수 있는 다이어트용 차입니다. 특히 변비로 고생하시는 분들께는 기분 좋은 나날을 약속 드립니다.
+그럼 OOO님, 기쁨과 행복이 가득하시기 바랍니다.
+</textarea>
+							<div class="emoti_title LMS">시음회안내</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">내일을 위해 늘 열심히 일하시는 OOO님의 모습을 생각하며 이 글을 시작합니다.
+OOO님! 안녕하십니까?
+어제 구입하신 OOO는 OOO님께 꼭 어울리는 현명한 선택이었습니다. 꾸준히 드셔서 건강을 되찾기 소망합니다.
+참으로 인연이란 묘한가 봅니다. 한 통의 전화가 판매로 이어지고 또 그 인연이 또 다른 판매로 이어졌으니 말입니다. 저를 소개한 친구 분이신 OOO님과도 첫 전화 만남으로 고객이 되셨습니다. 앞으로 자주 연락을 드리며 상담해드리겠습니다.
+그럼, OOO님! 늘 새로운 기운으로 정진하시기를 바라며 꼭 좋은 일만 생기세요. 파이팅!^^ 
+</textarea>
+							<div class="emoti_title LMS">구매고객감사</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">[○○○홍삼 할인행사]
+
+사랑하는 아내, 남편에게 ○○○홍삼으로 마음을 전하세요!
+사랑하는 부모님께 ○○○홍삼으로 마음을 전하세요! 효도세트는 10% 추가할인됩니다! 
+
+농축액과 홍삼순액을 저렴하게 살 수 있는 올해 마지막 기회!
+
+진한맛을 느끼면서 사랑과 건강을 나누세요~</textarea>
+							<div class="emoti_title LMS">홍삼순액</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">웰빙가족음료!!
+
+무안 황토 양파즙!!
+
+100포=&gt;30,000원
+200포=&gt;55,000원
+
+☆ 양파의 효능
+→ 지방과 콜레스테롤을 녹여 동맥경화, 고지혈증에 도움
+→ 피를 맑게 하여 혈압을 떨어 뜨리고 심장병을 예방
+→ 혈당치 낮추는 횩과가 뛰어 당뇨병에 도움
+→ 간의 해독작용으로 피로회복, 숙취효과에 탁월
+→ 칼슘이 풍부하여 성장호로몬과 같은 효능
+→ 단백질 함량 풍부로 다이어트 효과에 탁월
+
+배즙, 호박즙, 포도즙 등 다양한 즙이 준비되어 있습니다.
+
+문의및주문
+☎ 02-xxx-xxxx
+◆◆◆건강식품</textarea>
+							<div class="emoti_title LMS">웰빙가족음료!!</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">설맞이 이벤트!!!
+
+상품에 따라 최저 20%에서 최고 50%까지 할인해드립니다! 
+할인과 별개로 구매금액에 따라 푸짐한 사은품도 증정중이니 마음에 쏙 드시는걸로 선택해서 받아가세요~ 
+
+다가오는 설에는 사랑하는 가족, 친구, 지인들에게 건강을 선물하십시오! </textarea>
+							<div class="emoti_title LMS">설맞이 이벤트</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">식이요법 무료 강좌 오픈! 
+0일부터 3일간 오전&#47;오후 타임으로 나뉘어 진행됩니다. 
+방문하셔서 다양한 샘플과 함께 건강정보도 많이 얻어가세요~ ^^ 
+
+오픈은 0일 오전 9시 30분입니다!
+문의사항이 있으시면 매장으로 연락주세요.
+00-000-0000</textarea>
+							<div class="emoti_title LMS">식이요법 강좌</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">자연과 환경 중심의 OO식품은 외길인생 장인정신으로 식품문화의  질적향상을 위하여 노력해왔으며, 좋은 재료만을 엄선하여 혼을 담은 정직한 식품을 생산하여 세계 식품문화를 선도하는 일류 기업이 되도록 항상 노력 하겠습니다.
+
+- OO식품</textarea>
+							<div class="emoti_title LMS">OO식품</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">(광고)봄맞이 여행 이벤트 소식!
+
+안녕하세요! ○○여행사 입니다.
+
+고객님의 한결같은 성원과 사랑으로 창립 00주년을 맞이하였습니다!
+
+이에 봄맞이 이벤트를 실시하오니 많은 관심과 참여를 부탁드립니다.
+
+다양한 이벤트는 저희 ○○여행사 홈페이지를 방문하시어 참고해주세요!
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">봄맞이 이벤트</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">호주 허니문 여행을 환영합니다.
+
+
+안녕하십니까?
+
+저는 OO호주 허니문 여행사에서 여러분을 모시는 책임을 진 현지 회사의 고객 불편 처리 담당자 OOO 입니다.
+
+여러분의 빛나는 결혼을 축하 드리며 호주에서의 여러분을 모시게 되어 영광으로 생각합니다. 최선을 다해 인상적인 기억이 되시는 허니문 여행이 될 수 있도록 담당 가이드는 물론 회사 차원에서도 각별히 신경을 써서 모시도록 노력하겠습니다.
+
+저희 OO 허니문은 주지하시는 바와 같이 노 팁, 노 옵션이며 기타 고객 여러분에게 불편한 점이 없으시도록 고객 서비스 콜 제도를 실시하고 있습니다. 일정의 진핸 중에 여러분을 모시는 담당 가이드의 불친절이라든지 기타 모든 사항에 관하여 문제가 있을 시 아래 전화로 불편을 말씀하여 주십시오.
+즉각 처리 또는 개선이 될 수 있도록 하겠습니다.
+
+부디 새 출발의 의미 있는 허니문 여행이 되시길 진심으로 기원합니다.
+
+
+고객 불편 처리 담당자: OOO 차장
+
+전화: 537 8752
+</textarea>
+							<div class="emoti_title LMS">호주허니문</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">(광고)0년 연속 자유여행 1위에 빛나는 00여행사입니다.
+
+1:1 여행컨설턴트가 진정한 자유여행 코스 짜기를 도와드립니다!
+
+365일 24시간 상담 가능! 상담은 무료이니 부담없이 문의주세요~ 코스에 맞춘 할인정보도 실시간 업데이트됩니다! 
+
+여행의 계획부터 즐거운 경험, 안전한 마무리까지 고객님과 함께합니다♡
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">자유여행</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">(광고)0000 관광청이 추천하는 BEST 여행코스!!! 
+
+하이라이트 관광지 안내 및 현지에서 이용가능한 서비스, 풍성한 할인혜택까지 팍팍 드립니다~
+ 
+비수기 특급 이벤트도 진행중이니 떠나고싶은 당신! 얼른 얼른 000000.COM으로 오세요~ 
+
+전화상담도 환영합니다. *^^* 
+
+1500-0000
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">BEST코스</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">(광고)☆☆☆꽃축제
+여행에 초대합니다♪♬♪♬
+
+축제기간:◇월◇일~◇일
+
+금액 : ○만원
+
+출발장소 : XXXX
+
+■■■여행사 
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">꽃축제</div>
+						</div>
+			
+					</li>
+		
+					<li>
+						<div class="emoti_box text-center ellipsis">
+							<textarea class="d_LMS noresize" name="textarea" cols="16" wrap="PHYSICAL" onselectstart="return false;" onfocus="blur()">(광고)베트남 골프투어
+항공&amp;호텔&amp;골프투어패키지
+○○만원!마감임박!!
+매일출발
+
+친절한 상담으로 모시겠습니다.
+
+★★★여행사
+☏ 15XX-XXXX
+
+무료거부 0808635535</textarea>
+							<div class="emoti_title LMS">골프투어</div>
+						</div>
+			
+					</li>
+		
+				</ul>
+		
+			</div>
+			<div class="clear"></div>
+			<!-- 페이징 -->
+			<div class="text-center">
+		<div class='form-group marginB5' style='margin-bottom:5px;'><ul class='pagination pagination-sm'><li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=1' class='prevEnd'><i class='fa fa-angle-double-left'></i></a></li>
+<li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=9'>9</a></li>
+<li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=10'>10</a></li>
+<li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=11'>11</a></li>
+<li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=12'>12</a></li>
+<li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=13'>13</a></li>
+<li class="active"><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=14'>14</a></li>
+<li><a href='https://www.xonda.net/xclient/message/emoticon_lms.asp?EmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=15'>15</a></li>
+<li><a href='https://www.xonda.net/xclient/message/emoticon_lms.asp?EmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=16'>16</a></li>
+<li><a href='https://www.xonda.net/xclient/message/emoticon_lms.asp?EmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=17'>17</a></li>
+<li><a href='https://www.xonda.net/xclient/message/emoticon_lms.asp?EmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=18'>18</a></li>
+<li><a href='emoticon_lms.asp%3FEmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=30'><i class='fa fa-angle-double-right'></i></a></li>
+</ul></div>
+			</div>
+		</div>
+
+		</div>
+	</div>
+</div>
+</div>
+
+
+	<div class="marginT20">&nbsp;</div>
+</div>
+<div id="bodyMargin" style="background:#FCFCFC;"></div>
+<div id="footWrapper">
+
+		<div class=""><!-- BANNER / 대량전송 (icon1) -->
+<div class="main-banner-bar type1">
+	<div class="container">
+		<div class="sub-title"><span class="label label-default">25년 운영노하우</span></div>
+		<div class="title">빠르고 <i class="fa fa-flash"></i> 확실한 <i class="fa fa-flash"></i> 대량전송</div>
+		<div class="desc">쏜다넷이 더욱 빨라졌습니다.</div>
+		<div class="box">
+		
+			<a class="btn btn-danger" href="../member/joinstep1.asp">무료 회원가입</a>
+		
+		</div>
+	</div>
+</div></div>
+
+
+	<iframe name="frameHidden" style="border:0;width:100%;height:20px;display: none" src=""></iframe>
+	<!-- footer start -->
+	<footer>
+		<!-- container start -->
+		<div class="container">
+			<div class="row"><a name="footer"></a>
+				<div class="col-sm-3 col-xs-6"><a href="http://ir.xonda.net" target="_blank"><p>회사소개</p></a></div>
+				<div class="col-sm-3 col-xs-6"><a href="#footer" onclick="viewAgreement()"><p>서비스이용약관</p></a></div>
+				<div class="col-sm-3 col-xs-6"><a href="#footer" onclick="viewPrivacy()"><p>개인정보취급방침</p></a></div>
+				<div class="col-sm-3 col-xs-6"><a href="#footer" onclick="viewNospam()"><p>스팸관리규약</p></a></div>
+			</div>
+		</div>
+		<!-- end container -->
+	</footer>
+	<!-- end footer -->
+
+	<style>
+	.copyright .media{padding-left:25px; display:inline-block; white-space: nowrap; margin:0 10px 0 0 !important; color:#ffffff !important; font-weight:normal !important;}
+	.copyright .media.NAVERBLOG {background:transparent url('../images/media/NAVERBLOG.png') left center no-repeat;}
+	.copyright .media.NAVERTV {background:transparent url('../images/media/NAVERTV.png') left center no-repeat;}
+	.copyright .media.YOUTUBE {background:transparent url('../images/media/YOUTUBE.png') left center no-repeat;}
+	.copyright .media.INSTAGRAM {background:transparent url('../images/media/INSTAGRAM.png%3Fv=2') left center no-repeat;}
+	.copyright .media.FACEBOOK {background:transparent url('../images/media/FACEBOOK.png') left center no-repeat;}
+	@media (max-width:430px) {
+		.copyright .media{padding-left:20px; margin:0 5px 0 0 !important; font-size:11px;}
+	}
+	</style>
+	<!-- copyright start -->
+	<div class="copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-xs-12">
+					<p>(주)쏜다넷 | 송승한 | 사업자등록번호 101-81-64285</p>
+					<p>(특)부가통신사업자등록번호 제 3-01-15-0022호</p>
+					<p>대표 <a href="tel:0226467280">02)2646-7280</a> | FAX 02)2646-7281 | <i class="fa fa-envelope-o"></i> <a href="mailto:helpdesk@xonda.net">helpdesk@xonda.net</a></p>
+					<p>(08389) 서울시 구로구 디지털로26길 5 에이스하이엔드타워1차 614호</p>
+					<p>
+						<a class="dark-grey-text media NAVERBLOG"  href="https://blog.naver.com/xondanet1"   target="_blank">공식 블로그</a>
+						<a class="dark-grey-text media NAVERTV"    href="https://tv.naver.com/xondanet"      target="_blank">쏜다넷 TV</a>
+						<a class="dark-grey-text media YOUTUBE"    href="https://www.youtube.com/@xondanet"  target="_blank">유튜브</a>
+						<a class="dark-grey-text media INSTAGRAM"  href="https://www.instagram.com/xondanet" target="_blank">인스타그램</a>
+						<a class="dark-grey-text media FACEBOOK"   href="https://www.facebook.com/xondanet"  target="_blank">페이스북</a>
+					</p>
+					<p><b style="color: #7D7D7D; margin-right:5px">Family Site</b> <a href="http://www.smsket.com" target="_blank"><span style="color:#FFFFFF">기업형SMS</span> www.smsket.com</a></p>
+					<p>Copyright XONDA.NET Co.,Ltd. All rights reserved.</p>
+				</div>
+				<div class="col-sm-6 col-xs-12">
+					<p>
+						<img src="https://yeorcqadlpopsmgaoudu.supabase.co/storage/v1/object/public/certification/mark/9489d9cb-8e8d-40ce-8a3a-cf4e8ae4834a/1cc92c90-c3e3-4ace-a79e-f6d3c5e7d2e2-2024-11-13T07:29:38.617Z" style="cursor: pointer; width: 152px; height: 152px;" onclick="(function(){window.open('https://cleanspam.or.kr/ci/132','_blank','width=800, height=1151, toolbar=no, menubar=no, scrollbars=no, resizable=no')})()" />
+						<!--KISA Certificate Mark-->
+						<img src="https://www.ucert.co.kr/image/trustlogo/s_kisa.gif" width="65" height="63" align="absmiddle" border="0" style="cursor:pointer;margin:0 10px;" Onclick='javascript:window.open("https://www.ucert.co.kr/trustlogo/sseal_cert.html?sealnum=3e10d40f0fb490ed&sealid=beede2affb43f0438d53472e571b4b5e","mark","scrollbars=no,resizable=no,width=565,height=780");'>
+						<!--KISA Certificate Mark-->
+						<img src="../images/banner/footer_icon3.png" class="marginR5 cHand" onclick="window.open('http://ir.xonda.net/Company/paper/paper_big37.htm', 'winIR', 'left=200,top=150,width=395,height=541,toolbar=no,menubar=no,status=no,scrollbars=no,resizable=no');">
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end copyright -->
+</div>
+	<!-- Modal start -->
+	<div class="modal" id="layerLogin" tabindex="-1" role="dialog" aria-labelledby="layerLoginLabel" data-backdrop="static">
+		<div class="modal-dialog type-primary">
+			<div class="modal-content">
+				<div class="modal-header bg-success">
+					<button type="button" class="close" data-dismiss="modal"><span>&times;</span><span class="sr-only">Close</span></button>
+					<h4 class="modal-title" id="layerLoginLabel" align="left"><i class="fa fa-user marginR10"></i> 로그인</h4>
+				</div>
+				<div class="modal-body">
+					<!-- login form -->
+					<form name="frmLayerLogin" target="frameHidden" method="post" action="https://www.xonda.net/xclient/member/login_proc.asp" onsubmit="return false">
+					<input type="hidden" name="nexturl" value="/xclient/message/emoticon_lms.asp?EmType=LMS&EmGubun=24&EmMonth=0&EmCode=0&search_text=&pagesize=20&page=14">
+					<input type="hidden" name="https" value="ON">
+					<div class="form-group">
+						<label for="layer_loginid" id="spanLoginID">아이디</label>
+						<input type="text" name="loginid" value="" id="layer_loginid" class="form-control" placeholder="아이디를 입력하세요" autofocus />
+					</div>
+					<div class="form-group marginB10">
+						<label for="layer_loginpass">비밀번호</label>
+						<input type="password" name="loginpass" id="layer_loginpass" class="form-control" id="" placeholder="비밀번호">
+					</div>
+					<div class="form-group marginB10">
+						<input type="checkbox" name="idsave" id="idsave2" value="1"  /><label for="idsave2" class="f12px fNormal marginL5">아이디 기억하기</label> 
+					</div>
+					</form>
+					<button type="button" class="btn btn-success" onclick="layerLoginOk()"><i class="fa fa-sign-in marginR10"></i>로그인</button>
+					<span class="pull-right">
+					<a class="btn btn-xs btn-danger" href="../member/joinstep1.asp">회원가입</a>
+					<a class="btn btn-xs btn-info" href="../member/findidpw.asp">아이디/비번찾기</a>
+					</span>
+					<!-- login form -->
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+	function layerLoginOk(){
+		if($("#layer_loginid").pval() == ""){
+			makeAlert("아이디를 입력하세요.", funcFocus(document.frmLayerLogin.loginid));
+		}else if($("#layer_loginpass").pval() == ""){
+			makeAlert("비밀번호를 입력하세요.", funcFocus(document.frmLayerLogin.loginpass));
+		}else{
+			document.frmLayerLogin.submit();
+		}
+		return false;
+	}
+	$('#layer_loginid').keydown(function(event){
+		if(event.keyCode == 13) {
+			return layerLoginOk();
+		}else{
+			return true;
+		}
+	});
+	$('#layer_loginpass').keydown(function(event){
+		if(event.keyCode == 13) {
+			return layerLoginOk();
+		}else{
+			return true;
+		}
+	});
+	</script>
+<span class="scroll-to-top" title="맨위로"><i class="fa fa-2x fa-arrow-circle-up"></i></span>
+<div id="divIndicator" class="display-none"><div><i class="fa fa-cog fa-spin marginR10"></i>처리중입니다.<span>완료되면 자동으로 사라집니다.</span><span id="remain-time">잠시만 기다려주세요.</span></div></div>
+
+<div id="divQuickMenu" class="sticky-container"></div>
+<script type="text/javascript">
+$(window).ready(function() {
+	$(document).on( 'scroll', function(){
+		if ($(window).scrollTop() > 100) {
+			if(SITE_DEVICE_TYPE == "MOBILE"){
+			//	$('#topNavi').fadeOut();
+				if(!$("#bs-navbar-collapse").hasClass("in")){
+					$('#topNavi').hide();
+					$('#divQuickMenu').hide();
+				}
+			}
+			$('.scroll-to-top').addClass('show');
+		} else {
+			if(SITE_DEVICE_TYPE == "MOBILE"){
+			//	$('#topNavi').fadeIn();
+				$('#topNavi').show();
+				$('#divQuickMenu').show();
+			}
+			$('.scroll-to-top').removeClass('show');
+		}
+	});
+	$('.scroll-to-top').on('click', scrollToTop);
+});
+$(window).resize(function(){
+	try{
+		topNaviResize();
+		bodyResize();
+	}catch(ex){}
+}).resize();
+$(window).load(function () {
+
+	checkBrowser();
+
+	try{
+		topNaviResize();
+		bodyResize();
+	}catch(ex){}
+	try{
+		getLoginInfo();
+		loadQuickMenu();
+	}catch(ex){}
+});
+function checkBrowser(){
+	var agent = navigator.userAgent.toLowerCase();
+	if ((navigator.appName == 'Netscape' && navigator.userAgent.search('Trident') != -1) || (agent.indexOf("msie") != -1) ) {
+		var msg	=	"★★★★★★★★★★★★★★★★★★★★★★★\n"
+				+	"★ 이용중이신 브라우저의 지원이 종료되었습니다.\n"
+				+	"★ 최신 브라우저를 설치 후 이용해주세요.\n"
+				+	"★★★★★★★★★★★★★★★★★★★★★★★\n"
+				+	"[확인] 버튼을 누르시면\n"
+				+	"최신 브라우저를 다운로드 받을 수 있는 페이지로 이동합니다.";
+		alert(msg);
+		window.open("https://www.google.com/chrome/","WIN_CHROME");
+		return false;
+	}
+}
+</script>
+
+<!-- 공통 적용 스크립트 , 모든 페이지에 노출되도록 설치. 단 전환페이지 설정값보다 항상 하단에 위치해야함 --> 
+<script type="text/javascript" src="https://wcs.naver.net/wcslog.js"> </script> 
+<script type="text/javascript"> 
+function wcsConversionLog(t, v){
+	var _nasa={};
+	if(window.wcs) _nasa["cnv"] = wcs.cnv(t, v); // 1:구매, 2:가입
+
+	if (!wcs_add) var wcs_add={};
+	wcs_add["wa"] = "s_397456c0263e";
+	if (!_nasa) var _nasa={};
+	if(window.wcs){
+		wcs.inflow("xonda.net");
+		wcs_do(_nasa);
+	}
+}
+
+if (!wcs_add) var wcs_add={};
+wcs_add["wa"] = "s_397456c0263e";
+if (!_nasa) var _nasa={};
+if(window.wcs){
+	wcs.inflow("xonda.net");
+	wcs_do(_nasa);
+}
+</script>
+
+</body>
+</html>
